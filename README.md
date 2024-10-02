@@ -9,4 +9,5 @@
 - 📫 How to reach me: dannylowe96@hotmail.co.uk
 - 😄 Pronouns: Male - He/Him.
 - ⚡ Fun fact: Roses are red, violets are blue, fields of gold, are usually barley too.
--->
+- ⚽ My hobbies: Gaming, Learning the guitar(electric and acoustic) and playing darts.
+ 
