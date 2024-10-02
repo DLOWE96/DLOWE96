@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
-**DLOWE96/DLOWE96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on becoming a good coder/programmer.
-- 🌱 I’m currently learning software engineering 
+- 🔭 I’m currently working on mastering the basic concepts of python and expanding my knowledge within coding.
+- 🌱 I’m currently learning Software Engineering for Leaders.
 - 👯 I’m looking to collaborate on future team-based projects.
 - 🤔 I’m looking for help with Everything about Coding!!
 - 💬 Ask me about Gaming, Recent news.
